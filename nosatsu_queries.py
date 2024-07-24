@@ -22,7 +22,7 @@ with open("/mnt/c/Users/briesenb/Desktop/nosatsu_report.md", "w+") as mkdown:
         toc_entry = f"- {property.split('/')[-1]}: [for items](#{property.split('/')[-1]}---for-items) / [for complex objects](#{property.split('/')[-1]}---for-complex-objects)\n"
         mkdown.write(toc_entry)
 
-    
+    # still to do -- *also* output values for complex objects, as indicated at doc top
     mkdown.write("## Values by property - items\n")
     for property in descriptive_props:
         mkdown.write(f"### {property.split('/')[-1]} - for items\n")
