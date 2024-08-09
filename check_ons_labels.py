@@ -1,15 +1,24 @@
 import rdflib
 
+filepath = input("Enter filepath to RDF dump\n>>> ")
+
+# to-dos
+    # !! speed this up !!
+        # sort by vocab and only parse each vocab once for that group???
+    # report on time taken?
+    # add coll name (from dump file) to report top line and txt filename
+
 # get all ONS.org values
 all_distinct_ons = []
-g = rdflib.Graph().parse("../data_scratch/colls/building-or.ttl")
+g = rdflib.Graph().parse(filepath)
 result = g.query(
     """
     SELECT DISTINCT ?ons_resource
     WHERE {
         ?s ?p ?ons_resource .
         FILTER CONTAINS (str(?ons_resource), "http://opaquenamespace.org/ns/")
-        FILTER NOT EXISTS { ?s <info:fedora/fedora-system:def/model#hasModel> 'Generic' . }
+        # FILTER NOT EXISTS { ?s <info:fedora/fedora-system:def/model#hasModel> 'Generic' . }
+        # testing 20240808: failure count the same for filtering out generic/not filtering out generic
     }
     """
 )
@@ -32,6 +41,9 @@ print(f"Cannot retrieve a label for {len(failures)} ONS resources")
 
 # compile list of failures
 with open("/mnt/c/Users/briesenb/Desktop/ons_failures.txt", "w+") as txtfile:
+    txtfile.write(f"Cannot retrieve a label for {len(failures)} ONS resources\n")
+    txtfile.write("=" * 15 + "\n")
     for iri in failures:
         txtfile.write(f"{iri}\n")
+
 print("See Desktop file 'ons_failures.txt' for IRIs where no label could be retrieved")
