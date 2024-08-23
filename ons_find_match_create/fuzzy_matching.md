@@ -1,5 +1,6 @@
 # http://opaquenamespace.org/ns/creator/AnnandJohnD
-## Best match for iri_slug 'AnnandJohnD' ??
+## rdfs:label = 'Annand, John D.'
+## Fuzzy matching iri_slug 'AnnandJohnD' to Creator Display values:
 ### Annand, Boone, and Lei (architecture firm, 1955-1960)
 - fuzz.ratio = 25
 - fuzz.partial_ratio = 71
@@ -37,31 +38,36 @@
 - fuzz.partial_ratio = 36
 - fuzz.token_sort_ration = 19
 # http://opaquenamespace.org/ns/creator/DotyHaroldW
-## Best match for iri_slug 'DotyHaroldW' ??
+## rdfs:label = 'Doty, Harold W.'
+## Fuzzy matching iri_slug 'DotyHaroldW' to Creator Display values:
 ### Wade Hampton Pipes (architect, 1877-1961)
 - fuzz.ratio = 12
 - fuzz.partial_ratio = 29
 - fuzz.token_sort_ration = 20
 # http://opaquenamespace.org/ns/creator/JacobbergerFrancisB
-## Best match for iri_slug 'JacobbergerFrancisB' ??
+## rdfs:label = 'Jacobberger, Francis B.'
+## Fuzzy matching iri_slug 'JacobbergerFrancisB' to Creator Display values:
 ### Francis B. Jacobberger (architect, 1898-1962)
 - fuzz.ratio = 44
 - fuzz.partial_ratio = 74
 - fuzz.token_sort_ration = 37
 # http://opaquenamespace.org/ns/creator/LazarusEdgarM
-## Best match for iri_slug 'LazarusEdgarM' ??
+## rdfs:label = 'Lazarus, Edgar M.'
+## Fuzzy matching iri_slug 'LazarusEdgarM' to Creator Display values:
 ### Edgar Marks Lazarus (architect, 1868-1939)
 - fuzz.ratio = 33
 - fuzz.partial_ratio = 69
 - fuzz.token_sort_ration = 35
 # http://opaquenamespace.org/ns/creator/WeberWarren
-## Best match for iri_slug 'WeberWarren' ??
+## rdfs:label = 'Weber, Warren'
+## Fuzzy matching iri_slug 'WeberWarren' to Creator Display values:
 ### Warren Weber (architect, 1912-1982)
 - fuzz.ratio = 35
 - fuzz.partial_ratio = 71
 - fuzz.token_sort_ration = 33
 # http://opaquenamespace.org/ns/creator/HerzogHarryA
-## Best match for iri_slug 'HerzogHarryA' ??
+## rdfs:label = 'Herzog, Harry A.'
+## Fuzzy matching iri_slug 'HerzogHarryA' to Creator Display values:
 ### Bennes & Herzog (architecture firm, 1925-1931)
 - fuzz.ratio = 31
 - fuzz.partial_ratio = 67
@@ -75,7 +81,8 @@
 - fuzz.partial_ratio = 25
 - fuzz.token_sort_ration = 19
 # http://opaquenamespace.org/ns/creator/TirrellArchibaldL
-## Best match for iri_slug 'TirrellArchibaldL' ??
+## rdfs:label = 'Tirrell, Archibald L.'
+## Fuzzy matching iri_slug 'TirrellArchibaldL' to Creator Display values:
 ### Archibald Lee Tirrell (builder/contractor, 1872-1952 )
 - fuzz.ratio = 28
 - fuzz.partial_ratio = 71
@@ -89,7 +96,8 @@
 - fuzz.partial_ratio = 58
 - fuzz.token_sort_ration = 36
 # http://opaquenamespace.org/ns/workType/roomsandspaces
-## Best match for iri_slug 'roomsandspaces' ??
+## [!] Resource with IRI http://opaquenamespace.org/ns/workType/roomsandspaces does not seem to exist in ONS
+## Fuzzy matching iri_slug 'roomsandspaces' to Creator Display values:
 ### Boyajohn Arnold (builder/contractor)
 - fuzz.ratio = 24
 - fuzz.partial_ratio = 37
@@ -99,7 +107,8 @@
 - fuzz.partial_ratio = 36
 - fuzz.token_sort_ration = 17
 # http://opaquenamespace.org/ns/creator/HeinEldorW
-## Best match for iri_slug 'HeinEldorW' ??
+## rdfs:label = 'Hein, Eldor W.'
+## Fuzzy matching iri_slug 'HeinEldorW' to Creator Display values:
 ### Bert F. Wilson
 - fuzz.ratio = 33
 - fuzz.partial_ratio = 40
@@ -181,7 +190,8 @@
 - fuzz.partial_ratio = 31
 - fuzz.token_sort_ration = 16
 # http://opaquenamespace.org/ns/creator/ObergJohn
-## Best match for iri_slug 'ObergJohn' ??
+## rdfs:label = 'Oberg, John'
+## Fuzzy matching iri_slug 'ObergJohn' to Creator Display values:
 ### John Oberg (builder/contractor, 1887-1957)
 - fuzz.ratio = 27
 - fuzz.partial_ratio = 62
