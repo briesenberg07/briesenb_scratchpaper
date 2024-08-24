@@ -1,5 +1,5 @@
-# subset of all_ons to play with... 
-some_ons = [
+# subset of ons_all to play with... 
+ons_some = [
     ('http://opaquenamespace.org/ns/creator/AnnandJohnD', 'Annand, Boone, and Lei (architecture firm, 1955-1960)', 'Edgar Marks Lazarus (architect, 1868-1939)', 'Ellis Fuller Lawrence (architect, 1879-1946)', 'Harold B. Boone (architect)', 'John Davis Annand, Sr. (architect, 1907-1994)', 'Lawrence & Holford (architecture firm, 1913-1928)', 'Wilbert P. Lei (architect, 1909-1960)', 'William Christmas Knighton (architect, 1864-1938)', 'William Gordon Holford (architect, 1878-1970)'),
     ('http://opaquenamespace.org/ns/creator/DotyHaroldW', 'Wade Hampton Pipes (architect, 1877-1961)'),
     ('http://opaquenamespace.org/ns/creator/JacobbergerFrancisB', 'Francis B. Jacobberger (architect, 1898-1962)'),
