@@ -1,0 +1,161 @@
+# fealy
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 0 values total
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 0 values total
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 15 values total
+	- 1 unique values
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# marketing-photos
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 0 values total
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 0 values total
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 0 values total
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# angelus
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 0 values total
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 37 values total
+	- 1 unique values
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 0 values total
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# building-or
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 36 values total
+	- 5 unique values
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 1 values total
+	- 1 unique values
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 136879 values total
+	- 893 unique values
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 1 values total
+	- 1 unique values
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# chinavine
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 0 values total
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 0 values total
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 0 values total
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# nosatsu
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 0 values total
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 0 values total
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 11714 values total
+	- 16 unique values
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# osu-historical-images
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 0 values total
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 0 values total
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 62830 values total
+	- 67 unique values
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# lowenstam
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 0 values total
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 0 values total
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 5430 values total
+	- 220 unique values
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# uo-arch-photos
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 0 values total
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 0 values total
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 0 values total
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
+# osu-historical-publications
+- biographical_information / http://rdaregistry.info/Elements/a/P50113
+	- 1 values total
+	- 1 unique values
+- description_of_manifestation / http://rdaregistry.info/Elements/w/P10271
+	- 0 values total
+- form_of_work / http://rdaregistry.info/Elements/w/P10004
+	- 0 values total
+- workType / http://www.rdaregistry.info/Elements/w/#P10004
+	- 32456 values total
+	- 53 unique values
+- color_content / http://rdaregistry.info/Elements/e/P20224
+	- 0 values total
+- layout / http://rdaregistry.info/Elements/m/P30155
+	- 0 values total
+- mode_of_issuance / http://rdaregistry.info/Elements/m/P30003
+	- 0 values total
