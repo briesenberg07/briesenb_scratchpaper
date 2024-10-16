@@ -36,13 +36,17 @@ class OdCsv:
 
 
 """ TO-DOS, IDEAS
+
 to dos
+    eliminate spaces from values in columns taking IRIs
     replace old file with new
     ...
 
 ideas 
     validate column headers
         this could involve adding list of headers to colls data
+    check encoding or otherwise avoid blorked-up item titles
+    for rows with no filename, delete values
     summarize changes when replacing old file with new?
     ...
 
