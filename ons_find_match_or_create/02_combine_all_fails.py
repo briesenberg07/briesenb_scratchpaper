@@ -12,15 +12,17 @@ for coll in coll_data:
         coll_fails = json.load(coll_json)
         coll_id = list(coll_fails.keys())[0]
         coll_fails = coll_fails[coll_id]
+
+    # ... not 100% sure that this code is doing what I think it is doing
     for value in coll_fails:
         if not any(d['fail'] == value for d in all_fails):
             all_fails.append({
                 'fail': value,
-                'coll_s': coll_id,
+                'coll_s': [ coll_id ],
                 'use': ''
             })
         elif any(d['fail'] == value for d in all_fails) and all_fails['fail' == value]['coll_s'] != coll_id:
-            all_fails['fail' == value]['coll_s'] = f"{all_fails['fail' == value]['coll_s']}, {coll_id}"
+            all_fails['fail' == value]['coll_s'].append(coll_id)
         else:
             pass
 
@@ -32,4 +34,8 @@ with open("_combined_distinct_fails.csv", "w+") as newcsvfile:
     writer = csv.DictWriter(newcsvfile, fieldnames=fieldnames)
     writer.writeheader()
     for entry in all_fails:
-        writer.writerow({'fail': entry['fail'], 'coll_s': entry['coll_s'], 'use': entry['use']})
+        writer.writerow({
+            'fail': entry['fail'], 
+            'coll_s': ', '.join(entry['coll_s']), 
+            'use': entry['use']
+            })
