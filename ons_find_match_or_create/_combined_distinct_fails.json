@@ -1,0 +1,1459 @@
+{
+    "_combined_distinct_fails": [
+        {
+            "fail": "http://id.loc.gov/authorities/subjects/sh85002992http://opaquenamespace.org/ns/subject/GelatineAirship",
+            "coll_s": "angelus",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/SuXinPing",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/DoughFigures",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Mudhttp://vocab.getty.edu/aat/300211037",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/BristleDolls",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/MudDolls",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/FoldedPaperFigures",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/PuHuiPainting",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/ClothTigers",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Hutongs",
+            "coll_s": "chinavine",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/MyersDavidJohn",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/shipyards",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Brackets",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/roomsandspaces",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/bedrooms",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/ChurchillJrRoyE",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/HodgesDrury",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/sculpturegardens",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/stylePeriod/CottageStyledecorativeartsstyle",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/grainelevators",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/ThorntonCalvinR",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/AdamsWH",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Cemeteries",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/MoserJosephHenry",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/DonCoolidge",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/lodges",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/dormitories",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/grandstands",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BrooksandDowning",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/PatKliewer",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/historicsites",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/patios",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Views",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/farmhouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Dwellings",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/EylerBrownarchitect18951966",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/monumentsandmemorials",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/DCoolidge",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/HardieWaldoSandSons",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/ceilings",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/industrialstructures",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/transportationcomplexes",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/Firm151",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/arenas",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/departmentstores",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/outbuildings",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Firestations",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/kitchens",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/VirginiaMerriman",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/carriagehouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/AGuthrieCompany",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Clubhouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/PLACEStudio",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/lodginghouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Bridges",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/CobbSamuelbuilder/contractor",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/ChambersConstructionCompany",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Flumes",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/SuttonWhitneyAandahlandFritsch",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/RayDornignacq",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/AnnandandKennedyArchitectsandEngineers",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/KoonRaymondE",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Landscapearchitecture",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/watertransportationcomplexes",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Cottages",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/LeeseCrutcherLewis",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/gates",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/GeorgeAMooreandAssociates",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/WPSmith",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/electricsubstations",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Presbyterianchurches",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/bathrooms",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/ballroom",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/MillCharlesB",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Streets",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/OlsenJOManufacturingCompany",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/basements",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BainWilliamJSr",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/gardensopenspaces",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/documents",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/StevensJohnC",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/WilliamsonLewis",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/saltboxhouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/furniture",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BalzhizerSederandRhodes",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/GranzerHenry",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/StevensKoon",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Architecture",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/shipyardstructures",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/capitols",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Diningrooms",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/boathouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/SobolG",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Methodistchurches",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/sanctuariesreligiousbuildingspaces",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/foursquarehouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/StuartRIandSons",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/KennethGunn",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/croplands",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Balconies",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/billiardrooms",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/CaineMortonH",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/VanderpoolDavid",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/courtyards",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/breweries",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/utilitiesbuildings",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/e",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/2012",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/gables",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Dormers",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/signage",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/halls",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Steppingstones",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/baywindows",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/WorksProgressAdministration",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/treefarms",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Dams",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/cityscapes",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/JohnsonIan",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/exteriorcoveredspaces",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BaumeandCutterarchitecturefirm",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/JohansenPerry",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/DavidsonPhotographCourtesyofOregonHistoricalSociety",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/WoodHEandCompany",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Communitycenters",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/floors",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/stylePeriod/Eclecticism",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/WrightHowardSConstructionCompany",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/AnnandBooneDrynanandHuffstutter",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/PooleHarryCamden",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/waterworks",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/fireescapes",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Hotels",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/FisherEmlerH",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/accessorydoorhardware",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Newels",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/LCrutcher",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/uncoveredspaces",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BradyClifton",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/enclosingstructuralelements",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/fraternallodges",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/granaries",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/PattersonNewellGCompany",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Operahouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/cupolas",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BenMaxwell",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Concerthalls",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/hallinteriorspaces",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Fences",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Lighting",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BeilandHernantartists",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/TeninoStoneCompanybuilder/contractor",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/drugstores",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Woodwork",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Intentionalcommunities",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/grocerystores",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/shedsstoragestructures",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Advertisements",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Waterways",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/VikConstructionCompanyfounded1948",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Mills",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Pergolas",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/wallcomponents",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/domes",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/stylePeriod/BaroqueRevival",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Bookstores",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BenMaxell",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/guardstations",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/dens",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/entranceHalls",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Customhouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Canals",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/vehiclestoragebuildings",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/shelters",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Resorts",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/haylofts",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/MoyerAD",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/structuralelements",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BentlyLM",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/GillenChambersCompanybuilder/contractor",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/roomsinteriorspaces",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/dryersequipment",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/MorinKennethL",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/AnnanJohnDJrJr",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Floorplans",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/dairystores",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/ChrisitiansenThomas",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/FireHydrants",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/interiorwallcomponents",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/FosterVogtCompanybuildercontractor",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Aerialviews",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/transportationstructures",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/finishhardwarehardware",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/ranchhouses",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/portraits",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/Forts",
+            "coll_s": "building-or",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/ChaneyStephanieDresie",
+            "coll_s": "marketing-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/EngelhardtJim",
+            "coll_s": "marketing-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Campusscenes",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/SouthernPacificLines",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/UOJamSquadDancegroup",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/EdsCoed",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/GrazianoSmithSaverina",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Alumniandalumnae",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/ChineseStudentChoirUniversityofOregon",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/actors",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/YellowGarterBandMusicalgroup",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Clothinganddress",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/FriendshipFoundationforInternationalStudentsOrganization",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/InternationalStudentAssociationOrganization",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/DenbayaDrumandDance",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/EdrisMorrisionStudio",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://id.loc.gov/authorities/subjects/sh85141093http://opaquenamespace.org/ns/people/EvansRaymondO",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/AnimalHouse",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/Kenneil-Ellis",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OntheRocksMusicalgroup",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OregonBasketballBandMusicalgroup",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/GreenGarterBandMusicalgroup",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/PaslayJeff",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/UnderwoodandUnderwoodStudios",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/AustinLaurence",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/BraunKirkW",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Rally",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OregonDanceTeam",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/documents",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/people/KuskovaOlgaY",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/PorterOscarE",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/MindtheGap",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/LarsonJohn",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/UniversityofOregonROTC",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/UniversitiesandcollegesAlumniandalumnae",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/people/JinnahNutaylaA",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/people/NorrisGeorgeW/",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Trackandfieldathletes",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/TrackandField",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/RadioStations",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/SchulteMaryJaneA",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/DuckStreetDanceClub",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/WarpinskiTerry",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/PersonalBest",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/MargillAnita",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/people/ReederAnnM",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/WiltshireEricS",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/CampusScenes",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/buildings",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/AllenJeff",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/automobiles",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/AhiruDaikoMusicalgroup",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/people/Cooperfotos",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/UniversityofOregonAlumniandalumnae",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/people/PietzoldKatherineA",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/PattersonSteve",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/students",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OutdoorProgramUniversityofOregonUOBikeProgram",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/localCollectionName/UniversityArchivesphotographs1890s2010sUARef4",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Signsandsignboards",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Womenathletes",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/IrvinClarenceJ",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Divisi",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/GibsonFrank",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/people/HoltLinnas/people/AdairVeina",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/Collegeadministrators",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/people/LombardNelli",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/personalBest",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/campusscenes",
+            "coll_s": "uo-arch-photos",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/localCollectionName/GertrudeBassWarnerMemorialLibraryJapaneseArt",
+            "coll_s": "nosatsu",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/LaBondJean",
+            "coll_s": "osu-historical-images",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/Roman",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/AncientGreek",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/Naxian?",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/merrythoughtcups",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OdysseusLandscape#3",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OdysseyLandscape#7",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/stylePeriod/LateHelladicIA",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OdysseyLandscape#4",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/Pausias",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/giltsilverstrip",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/creator/Wakron",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OdysseusLandscape#2",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/Pompeian",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/Gallic",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/MiddleApulian",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/AncientEgyptian",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OdysseusLandscape#1",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/workType/circusesRomanareanas",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/subject/OdysseyLandscape#5",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/Tyrrhenian",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/Paestum",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/culture/Naples",
+            "coll_s": "lowenstam",
+            "use": ""
+        },
+        {
+            "fail": "http://opaquenamespace.org/ns/publisher/ZartscorpIncBooks",
+            "coll_s": "artists-books",
+            "use": ""
+        }
+    ]
+}
