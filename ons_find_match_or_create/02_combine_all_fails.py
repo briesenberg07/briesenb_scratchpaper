@@ -14,15 +14,15 @@ for coll in coll_data:
         coll_fails = coll_fails[coll_id]
 
     # ... not 100% sure that this code is doing what I think it is doing
-    for value in coll_fails:
-        if not any(d['fail'] == value for d in all_fails):
+    for failed_iri in coll_fails:
+        if not any(d['fail'] == failed_iri for d in all_fails):
             all_fails.append({
-                'fail': value,
+                'fail': failed_iri,
                 'coll_s': [ coll_id ],
                 'use': ''
             })
-        elif any(d['fail'] == value for d in all_fails) and all_fails['fail' == value]['coll_s'] != coll_id:
-            all_fails['fail' == value]['coll_s'].append(coll_id)
+        elif any(d['fail'] == failed_iri for d in all_fails) and all_fails['fail' == value]['coll_s'] != coll_id:
+            all_fails['fail' == failed_iri]['coll_s'].append(coll_id)
         else:
             pass
 
