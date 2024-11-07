@@ -42,9 +42,9 @@ with open("combined.csv", "w+") as newcsvfile:
     writer.writeheader()
     with open("combined.json", "r") as jsonfile:
         combined = json.load(jsonfile)
-    for iri in combined:
+    for iri in combined: # this syntax ...
         writer.writerow({
-            'fail': iri, # OK how do I get the key only
-            'use': combined[iri]['use'],
-            'coll': ', '.join(combined[iri]['coll'])
+            'fail': iri, # ...was a little tricky ...
+            'use': combined[iri]['use'], # ...I guess I'm still learning...
+            'coll': ', '.join(combined[iri]['coll']) # ...data structures...
             })
