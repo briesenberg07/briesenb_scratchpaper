@@ -1,41 +1,50 @@
 import json, os, csv
 
-with open("_combined_distinct_fails.json", "r") as existingjson:
-    all_fails = json.load(existingjson)
-    all_fails = all_fails["_combined_distinct_fails"]
+if os.path.exists("combined.json"):
+    with open("combined.json", "r") as existingjson:
+        combined = json.load(existingjson)
+else:
+    combined = {}
+
 # test
-# print(f"len(all_fails) > {len(all_fails)}")
+# print(f"len(combined): {len(combined)}")
 
 coll_data = os.listdir("coll_fails")
 for coll in coll_data:
+    coll_id = coll.split('.')[0]
     with open(f"coll_fails/{coll}", "r") as coll_json:
         coll_fails = json.load(coll_json)
-        coll_id = list(coll_fails.keys())[0]
         coll_fails = coll_fails[coll_id]
-
-    # ... not 100% sure that this code is doing what I think it is doing
-    for failed_iri in coll_fails:
-        if not any(d['fail'] == failed_iri for d in all_fails):
-            all_fails.append({
-                'fail': failed_iri,
-                'coll_s': [ coll_id ],
-                'use': ''
-            })
-        elif any(d['fail'] == failed_iri for d in all_fails) and all_fails['fail' == value]['coll_s'] != coll_id:
-            all_fails['fail' == failed_iri]['coll_s'].append(coll_id)
-        else:
+    # test
+    # print(f"{len(coll_fails)} failed IRIs in {coll_id}")
+    for iri in coll_fails:
+        if combined.get(iri) == None:
+            combined.update({ iri: {
+                "coll": [coll_id],
+                "use": None
+            }})
+        elif combined.get(iri) != None and coll_id not in combined[iri]['coll']:
+            combined[iri]['coll'].append(coll_id)
+        elif combined.get(iri) != None and coll_id in combined[iri]['coll']:
             pass
+        else:
+            print("ERROR IN COLL_FAILS FOR LOOP")
 
-with open("_combined_distinct_fails.json", "w+") as newjsonfile:
-    json.dump({"_combined_distinct_fails": all_fails}, newjsonfile)
+# test
+# print(f"len(combined): {len(combined)}")
 
-with open("_combined_distinct_fails.csv", "w+") as newcsvfile:
-    fieldnames = ['fail', 'coll_s', 'use']
+with open("combined.json", "w+") as newjsonfile:
+    json.dump(combined, newjsonfile)
+
+with open("combined.csv", "w+") as newcsvfile:
+    fieldnames = ['fail', 'coll', 'use']
     writer = csv.DictWriter(newcsvfile, fieldnames=fieldnames)
     writer.writeheader()
-    for entry in all_fails:
+    with open("combined.json", "r") as jsonfile:
+        combined = json.load(jsonfile)
+    for iri in combined:
         writer.writerow({
-            'fail': entry['fail'], 
-            'coll_s': ', '.join(entry['coll_s']), 
-            'use': entry['use']
+            'fail': iri, # OK how do I get the key only
+            'use': combined[iri]['use'],
+            'coll': ', '.join(combined[iri]['coll'])
             })
