@@ -8,6 +8,8 @@ from sys import argv
 # ! make creating namespaces, binding namespaces better
 # ! does bind step below need to happen when initializing each graph, or only once total?
 # ! many more namespaces still to-do, see JSON-LD for some additional prefix suggestions
+# see some additional prefixes found at https://gist.github.com/briesenberg07/195a93f27db7a2486b455991e412d5d9#file-od_rdf_excerpt-ttl
+
 LINKREL = Namespace("http://www.iana.org/assignments/relation/")
 EBUCORE = Namespace("http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#")
 EDM = Namespace("http://www.europeana.eu/schemas/edm/")
@@ -18,10 +20,9 @@ PCDM = Namespace("http://pcdm.org/models#")
 MARCREL = Namespace("http://id.loc.gov/vocabulary/relators/")
 
 # couldn't identify preferred prefix
-ONS = Namespace("http://opaquenamespace.org/ns/")
 FEDREP = Namespace("http://fedora.info/definitions/v4/repository#")
-RESTAT = Namespace("http://fedora.info/definitions/1/0/access/ObjState#")
-FEDORA = Namespace("info:fedora/fedora-system:def/model#")
+FEDSTATE = Namespace("http://fedora.info/definitions/1/0/access/ObjState#")
+FEDINFO = Namespace("info:fedora/fedora-system:def/model#")
 
 target = input("enter target dir in data_scratch, if applicable\n>>> ")
 
@@ -39,8 +40,8 @@ for resource in argv[1:]:
     g.bind("marcrel", "http://id.loc.gov/vocabulary/relators/")
     g.bind("ons", "http://opaquenamespace.org/ns/")
     g.bind("fedrep", "http://fedora.info/definitions/v4/repository#")
-    g.bind("restat", "http://fedora.info/definitions/1/0/access/ObjState#")
-    g.bind("fedora", "info:fedora/fedora-system:def/model#")
+    g.bind("fedstate", "http://fedora.info/definitions/1/0/access/ObjState#")
+    g.bind("fedinfo", "info:fedora/fedora-system:def/model#")
 
     g.parse(f"/mnt/c/Users/briesenb/Desktop/{resource}") # I believe this is an absolute path
     if target != '':
